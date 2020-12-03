@@ -12,7 +12,7 @@ import time
 
 NOTIFYCFG = 1     # [0,1,2,3]  0:不通知    1:server酱    2:bark服务    3:Telegram_bot
 
-SCKEY = ''        # Server酱的SCKEY
+SCKEY = 'SCU124384T8cce9a8c64fd4f2ed6bbc2a69ee3752e5fa71ec14178c'        # Server酱的SCKEY
 BARK = ''         # bark服务,自行搜索
 TG_BOT_TOKEN = ''           # telegram bot token 自行申请
 TG_USER_ID = ''             # telegram 用户ID
